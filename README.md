@@ -31,5 +31,14 @@
  	  <a href = "mailto:matheus.dionisio@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-p-dionisio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/rugal119/rugal119/blob/output/github-contribution-grid-snake.svg)
+ 
+    
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-r07}/count.svg" /></p> 
+<br></div>
+
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
    
