@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Pereira+Dionisio;I'm+25+years+old;I+from+São+Paulo,+SP;I+study+Computer+Systems+Analyst+at+PUC+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas. (PUC-MG)
-- 📖 Estuando e evoluindo.
+- 📖 Estuando e evoluindo. (Loading...)
 - 🕺🏻  Ele/Dele
-- Sonho em um dia poder trabalhar na MS ou em uma das #BigTechs
+- Estudando para poder chegar nas big tech's 🚀
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Math-r07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Pereira Dionisio github stats" /> 
