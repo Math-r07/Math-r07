@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas. (PUC-MG)
 - 📖 Estuando e evoluindo. (Loading...)
 - 🕺🏻  Ele/Dele
-- Estudando para poder chegar nas big tech's 🚀
+- Falar é fácil, me mostre o código. (Linus Torvalds) 🚀
 
 ## Pode entrar em contato comigo por estes meios: 
 
