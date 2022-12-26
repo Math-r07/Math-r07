@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas. (PUC-MG)
 - 📖 Estuando e evoluindo. (Loading...)
 - 🕺🏻  Ele/Dele
-- Falar é fácil, me mostre o código. (Linus Torvalds) 🚀
+- O futuro vai mostrar os resultados e julgar cada um segundo as suas realizações. (Nikola Tesla) ⚡
 
 ## Pode entrar em contato comigo por estes meios: 
 
