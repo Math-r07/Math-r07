@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Pereira+Dionisio;I'm+26+years+old;I+from+São+Paulo,+SP;I+study+Computer+Systems+Analyst+at+PUC+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas. (PUC-MG)
+- 👨🏻‍💻Segurança da Informação (SENAC)
 - 📖 Estuando e evoluindo. (Loading...)
 - 🕺🏻  Ele/Dele
 - O futuro vai mostrar os resultados e julgar cada um segundo as suas realizações. (Nikola Tesla) ⚡
